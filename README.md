@@ -1,4 +1,4 @@
-<h4 align="center">Connect with me</h4>
+<h3 align="center">Connect with me👇🏻</h3>
 
 ###
 
@@ -6,14 +6,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
+<hr>
 
-###
-
-<h3 align="center">Would love to dive into :</h3>
-
-###
-
-<h3 align="center">🛠 Language and tools I've worked with:</h3>
+<h3 align="center">Language and tools I've worked with 🛠</h3>
 
 ###
 
@@ -36,16 +31,42 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+<hr>
+
+
+###
+
+<div align="center">
+<h3 align="center">Would love to dive into 🏊‍♀️</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+</div>
+
+###
+<hr>
+
+<h3 align="center">Stats🔥</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Snehaksj&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
 </div>
+<hr>
 
 ###
 
-<br clear="both">
+<h3 align="center">Contributions✨</h3>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Snehaksj/Snehaksj/output/snake.svg" alt="Snake animation" />
 </div>
