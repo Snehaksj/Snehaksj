@@ -73,6 +73,13 @@
 <hr>
 
 ###
+<hr>
+<div align="center">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/SnehaKSJ?ext=heatmap)
+</div>
+<hr>
+  
+###
 
 <h3 align="center">Contributions✨</h3>
 
