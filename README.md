@@ -63,7 +63,7 @@
 ###
 <hr>
 
-<h3 align="center">Stats🔥</h3>
+<h3 align="center">Github Stats🔥</h3>
 
 ###
 
@@ -73,9 +73,11 @@
 <hr>
 
 ###
-<hr>
+<h3 align="center">Leetcode Stats🔥</h3>
+
+###
 <div align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/SnehaKSJ?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/SnehaKSJ?ext=heatmap" alt="Leetcode Stats">
 </div>
 <hr>
   
